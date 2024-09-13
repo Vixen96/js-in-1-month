@@ -123,3 +123,9 @@ H~2~O
 ### Superscript
 
 X^2^
+Акордеон (Accordeon) 
+
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
